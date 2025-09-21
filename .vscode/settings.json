@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "stdexcept": "cpp",
+        "iosfwd": "cpp",
+        "chrono": "cpp",
+        "xlocale": "cpp",
+        "vector": "cpp"
+    }
+}
